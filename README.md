@@ -1,4 +1,4 @@
-# TurboWarp Packager
+# EXE Packager
 
 https://packager.turbowarp.org/
 
